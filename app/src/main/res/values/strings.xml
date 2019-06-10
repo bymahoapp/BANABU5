@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BANABU</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MAHMUT DAĞHAN</string>
+    <string name="nav_header_subtitle">bymaho@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_anasayfa">ANASAYFA</string>
+    <string name="menu_profil">PROFİLİM</string>
+    <string name="menu_isletme">İşletme Sayfası</string>
+    <string name="menu_ayarlar">AYARLAR</string>
+    <string name="menu_paylas">PAYLAŞ</string>
+    <string name="menu_gonder">MESAJ GÖNDER</string>
+</resources>
